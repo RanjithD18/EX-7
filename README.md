@@ -1,6 +1,6 @@
 # EX-7 IMPLEMENTATION OF TRACEROUTE COMMAND
 
-DATE :
+### DATE : 19-04-2023
 
 ## AIM :
 To write the python program for simulating Traceroute command
@@ -22,7 +22,7 @@ print(result,unans)
 ```
 
 ## OUTPUT :
-![](7.png)
+![](1.png)
 
 ## RESULT :
 Thus, the python program for simulating Traceroute command was successfully executed.
